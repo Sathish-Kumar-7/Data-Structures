@@ -1,0 +1,39 @@
+
+JAVA
+1 Deep Language Skills:- Basics To Pro
+        Object-Oriented Programming
+        Java Collection Frameworks
+        Java Functional Programming
+        Java Multithreading
+        Java Regular Expressions
+        Java JDBC
+2 Data-Structure Concepts:-
+    Time Complexity
+    Array
+    String
+    Bit Manipulation
+    Linked List
+    Stack
+    Queue
+    Hash Table
+    Tree
+    Graph
+    Backtracking
+    Dynamic Programming
+    With Practice Programs
+3 Other Frameworks Based On Wipro Concepts
+
+C++
+1 Language Learning Course:-
+        https://www.youtube.com/watch?v=8jLOx1hD3_o
+2 DataStructures Implementation Plan As Same As In JAVA
+
+KOTLIN
+1 DataStructures Implementation Plan As Same As In JAVA
+
+
+
+
+
+
+
